@@ -1,0 +1,117 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.head {
+    display: flex;
+    height: 960px;
+    width: 100%;
+    background-image: url("./image/Burger.jpg");
+}
+
+.body {
+    display: flex;
+    /* background-color: brown; */
+    height: 100%;
+    width: 100%;
+}
+
+.code-1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-color: rgb(0, 0, 0); */
+    height: 8%;
+    width: 80%;
+}
+
+.code-2 {
+    display: flex;
+
+    align-items: center;
+    /* background-color: rgb(219, 123, 123); */
+    height: 8%;
+    width: 35%;
+}
+
+.h1-1 {
+    color: white;
+}
+
+.code-3 {
+    display: flex;
+
+    align-items: center;
+    /* background-color: rgb(150, 63, 63); */
+    height: 8%;
+    width: 40%;
+}
+
+.h-1 {
+    color: yellow;
+    margin-right: 5%;
+    font-size: 30px;
+    text-decoration: none;
+}
+
+.h-2 {
+
+    color: white;
+    margin-right: 5%;
+    font-size: 30px;
+    text-decoration: none;
+}
+
+.h-3 {
+
+    color: white;
+    margin-right: 5%;
+}
+
+.h-4 {
+
+    color: white;
+    margin-right: 5%;
+}
+
+.fa-user {
+    font-size: 30px;
+    margin-right: 5%;
+}
+
+.fa-cart-shopping {
+    font-size: 30px;
+    margin-right: 5%;
+}
+
+.fa-magnifying-glass {
+    font-size: 30px;
+    margin-right: 5%;
+}
+
+.but {
+    background-color: rgb(116, 158, 53);
+    color: white;
+    margin-right: 3%;
+    width: 30%;
+    height: 50%;
+    border-radius: 45%;
+}
+
+.h2-hisse {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+/* .fdf-1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(0, 0, 0);
+    height: 50%;
+    width: 80%;
+
+} */
